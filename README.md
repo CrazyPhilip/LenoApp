@@ -1,4 +1,4 @@
-![](https://github.com/CrazyPhilip/LenoApp/tree/master/leno.png)
+![](https://github.com/CrazyPhilip/LenoApp/blob/master/leno.png)
 
 # LenoApp
 
@@ -57,7 +57,7 @@ keybd_event((byte)Keys.C, 0, 2, 0);//模拟松开c
 
 ## 截图
 
-![](https://github.com/CrazyPhilip/LenoApp/tree/master/Screenshots/Leno_20200822215657.png)
+![](https://github.com/CrazyPhilip/LenoApp/blob/master/Screenshots/Leno_20200822215657.png)
 
 ## 有待优化
 
